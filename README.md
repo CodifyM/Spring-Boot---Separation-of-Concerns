@@ -1,1 +1,1 @@
-# Spring-Boot---Separation-of-Concerns
+# Spring-Boot---Seperation-of-Concerns
