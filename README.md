@@ -1,6 +1,6 @@
 # Spring-Boot---Seperation-of-Concerns
 
-Demo on seperation of concerns:
+Demo on separation of concerns:
 
 1. Controller class
 2. Service class
